@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+outputs/
+*.mp4
+*.avi
+*.mov
+.env
+.DS_Store

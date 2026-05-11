@@ -1,0 +1,15 @@
+streamlit
+streamlit-webrtc
+ultralytics
+opencv-python-headless
+pillow
+numpy
+pandas
+plotly
+scikit-learn
+matplotlib
+torch
+torchvision
+av
+aiortc
+tornado
